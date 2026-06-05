@@ -1,50 +1,6 @@
 {
-  "3P": [
-    "3P-KEY1",
-    "3P-KEY2",
-    "3P-KEY3",
-    "3P-KEY4",
-    "3P-KEY5",
-    "3P-KEY6",
-    "3P-KEY7",
-    "3P-KEY8",
-    "3P-KEY9",
-    "3P-KEY10"
-  ],
-  "1H": [
-    "1H-KEY1",
-    "1H-KEY2",
-    "1H-KEY3",
-    "1H-KEY4",
-    "1H-KEY5",
-    "1H-KEY6",
-    "1H-KEY7",
-    "1H-KEY8",
-    "1H-KEY9",
-    "1H-KEY10"
-  ],
-  "1D": [
-    "1D-KEY1",
-    "1D-KEY2",
-    "1D-KEY3",
-    "1D-KEY4",
-    "1D-KEY5",
-    "1D-KEY6",
-    "1D-KEY7",
-    "1D-KEY8",
-    "1D-KEY9",
-    "1D-KEY10"
-  ],
-  "VVP": [
-    "VVP-KEY1",
-    "VVP-KEY2",
-    "VVP-KEY3",
-    "VVP-KEY4",
-    "VVP-KEY5",
-    "VVP-KEY6",
-    "VVP-KEY7",
-    "VVP-KEY8",
-    "VVP-KEY9",
-    "VVP-KEY10"
-  ]
+  "1P": ["key_1p_001", "key_test_02"],
+  "1H": ["key_1gio_001", "key_1gio_002"],
+  "1D": ["key_ngay_001", "key_ngay_002"],
+  "VVP": ["key_vip_007", "key_vip_888"]
 }
