@@ -1,6 +1,12 @@
 {
-  "1P": ["key_1p_001", "key_test_02"],
-  "1H": ["key_1gio_001", "key_1gio_002"],
-  "1D": ["key_ngay_001", "key_ngay_002"],
-  "VVP": ["key_vip_007", "key_vip_888"]
+    "3P": ["key1p"],
+    "1H": [
+        "key1h1"
+    ],
+    "1D": [
+        "key1d1"
+    ],
+    "VVP": [
+        "keyvip1"
+    ]
 }
