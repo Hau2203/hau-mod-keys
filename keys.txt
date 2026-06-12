@@ -1,0 +1,2 @@
+KEY_VIP_01
+KEY_VIP_02
